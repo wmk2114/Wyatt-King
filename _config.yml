@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one# add this line to the plugins list if you already have one
 title: Wyatt King
-description: Senior @ Columbia University
+description: Senior at Columbia University
 
 logo: PANA60103.jpg
 show_excerpts: true   # optional
@@ -10,12 +10,8 @@ show_excerpts: true   # optional
 nav:
   - name: "Home"
     link: /
-  - name: "Research"
-    link: /research/
   - name: "CV"
     link: /cv/
-  - name: "Photos"
-    link: /photos/
 
 include:
   - Website
