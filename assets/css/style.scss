@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #f0f0f0; /* replace with any color you want */
+  color: #000000;  /* Main text color */
+}
+
+img {
+  max-width: 150px;
+  border-radius: 50%;
+}
