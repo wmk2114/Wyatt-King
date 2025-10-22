@@ -7,4 +7,15 @@ description: Senior @ Columbia University
 logo: PANA60103.jpg
 show_excerpts: true   # optional
 
-google_fonts: "Playfair Display"
+nav:
+  - name: "Home"
+    link: /
+  - name: "Research"
+    link: /research/
+  - name: "CV"
+    link: /cv/
+  - name: "Photos"
+    link: /photos/
+
+include:
+  - Website
