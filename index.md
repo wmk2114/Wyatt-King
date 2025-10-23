@@ -1,8 +1,3 @@
-
----
-Wyatt King
----
-
 I'm a senior at Columbia University studying political science and statistics with experience in journalism and social science research.
 
 My interest in journalism was sparked at the beginning of my first year in college. Working for the Columbia Daily Spectator, I eventually became the executive producer for the 148th Managing Board, directing Spectator's video content. In January, 2024, I reported on a hazardous chemical being sprayed at a pro-Palestinian rally, and in April, I covered the encampment, the occupation of Hamilton Hall, and the related arrests. My reporting was cited by several national media outlets, including the New York Times, and my footage appeared on PBS Frontline.
