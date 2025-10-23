@@ -1,21 +1,19 @@
 title: "Wyatt King"
 description: "Senior at Columbia University"
 
-# Use the Minimal Jekyll Theme from GitHub Pages
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-remote-theme
 
-# Logo displayed at the top of the site
+markdown: kramdown
+
 logo: PANA60103.jpg
 
-# Navigation links displayed across the top
 nav:
   - name: "Home"
     link: /
   - name: "CV"
     link: /cv/
 
-# Optional (shows article previews if you use blog posts)
 show_excerpts: true
