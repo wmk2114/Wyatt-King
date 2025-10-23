@@ -1,17 +1,21 @@
+title: "Wyatt King"
+description: "Senior at Columbia University"
+
+# Use the Minimal Jekyll Theme from GitHub Pages
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one# add this line to the plugins list if you already have one
-title: Wyatt King
-description: Senior at Columbia University
+  - jekyll-remote-theme
 
+# Logo displayed at the top of the site
 logo: PANA60103.jpg
-show_excerpts: true   # optional
 
+# Navigation links displayed across the top
 nav:
   - name: "Home"
     link: /
   - name: "CV"
     link: /cv/
 
-include:
-  - Website
+# Optional (shows article previews if you use blog posts)
+show_excerpts: true
